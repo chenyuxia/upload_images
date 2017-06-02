@@ -1,0 +1,9 @@
+
+.supp-files{overflow: hidden;text-align: center;margin: 1rem auto 0 auto;}
+.supp-files-c{display: inline-block;}
+.supp-files p{color: #0099CC;margin-bottom: .15rem;}
+.supp-files-inp{width: 2.36rem;height: 2.36rem;margin: 0 .5rem;position: relative;overflow: hidden;}
+.supp-files-inp img{width: 2.36rem;height: 2.36rem;position: absolute;left: 0;top: 0;}
+.supp-files-inp input{opacity: 0;width: 2.36rem;height: 2.36rem;position: relative;z-index: 1;}
+.supp-tip{text-align: right;margin: .25rem .25rem 0 0;}
+.supplement .btn{margin: 2.5rem .25rem 0 .25rem;clear: both;}

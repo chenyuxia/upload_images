@@ -1,0 +1,37 @@
+/*公用CSS*/
+*{margin:0;padding:0;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-touch-callout:none;
+    -webkit-user-select:none;outline:none;word-break:break-all;box-sizing:border-box;-webkit-box-sizing:border-box;}
+html,body{width:100%;height:100%;font-family:Arial,"Microsoft YaHei";  color: #222; }
+form{margin: 0;padding: 0;}
+li{margin:0; padding:0;}
+section,nav{display:block;}
+body{background:#eee;width:100%;height:100%;font-family:Arial,"Microsoft Yahei";-webkit-text-size-adjust:none;}
+input[type="text"],input[type="range"],input[type="tel"],input[type="email"],input[type="url"],input[type="number"],input[type="password"],textarea{-webkit-user-select:text;}
+input,select{-webkit-user-select:initial;font-family:Arial,"Microsoft Yahei";border:none;}
+a{text-decoration:none; color: #333}
+ul,ol,li{list-style:none;}
+img{border:0;}
+select{background:none;}
+input,img{vertical-align:middle;}
+table{border-collapse:collapse;border-spacing:0;}
+h1,h2,h3,h4,h5{ font-weight:normal; }
+.clearfix{zoom:1;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.fl{float: left;}
+.fr{float: right;}
+.ui-loader-default{ display:none}
+.ui-mobile-viewport{ border:none;}
+.ui-page {padding: 0; margin: 0; outline: 0}
+::-webkit-inner-spin-button { visibility: hidden; }
+::-webkit-calendar-picker-indicator {border: none;background-color: #fff;color: #666;}
+input{background-color:transparent;  -webkit-appearance:none;}
+input[type=number] { -moz-appearance:textfield;}
+input{border:none}
+input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{-webkit-appearance: none; margin: 0;}
+b,i,em{font-style: normal;}
+
+.fLeft{float: left;}
+.fRight{float: right;}
+.bob{border-bottom: 1px solid #ddd;}
+.padb{padding-bottom: 0.30rem;}
+.mlr{margin: 0px 0.25rem;}
